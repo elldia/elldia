@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yuna</h1>
-<h3 align="center">저는 목표를 향해 나아가는 웹퍼블리셔 입니다.</h3>
+<h3 align="center">저는 목표를 향해 나아가는 웹디자인&웹퍼블리셔 입니다.</h3>
 
 - 🌱 I’m currently learning **TypeScript, React, NodeJS, DataBase**
 

@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm yuna</h1>
-<h3 align="center">저는 목표를 향해 나아가는 웹디자인&웹퍼블리셔 입니다.</h3>
+<h3 align="center">저는 목표를 향해 나아가는 웹퍼블리셔 입니다.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 🌱 I’m currently learning **TypeScript, React, NodeJS, DataBase**
+
+- 👨‍💻 All of my projects are available at [https://github.com/elldia](https://github.com/elldia)
+
+- 💬 Ask me about **HTML, CSS, Javascript, Jquery, SCSS**
+
+- 📫 How to reach me **elldia1222@gmail.com**
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

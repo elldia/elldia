@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Yuna&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=WebDesignPublisher&animation=fadeIn)
 
 <h3 align="center">👋저는 목표를 향해 나아가는 웹디자인&웹퍼블리셔 입니다.</h3>
 

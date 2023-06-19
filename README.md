@@ -1,11 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=WebDesignPublisher&animation=fadeIn&color=FD866E&type=shark)
 
-<h3 align="center">👋저는 목표를 향해 나아가는 웹디자인&웹퍼블리셔 입니다.</h3>
-
-
-- 🌱 I’m currently learning **TypeScript, React, NodeJS, DataBase**
-
-- 👨‍💻 All of my projects are available at [https://github.com/elldia](https://github.com/elldia)
+<h3 align="center">👋지각 결석 조퇴없이 열심히 듣자!</h3>
 
 - 💬 Ask me about **HTML, CSS, Javascript, Jquery, SCSS**
 
@@ -18,5 +13,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elldia)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elldia&theme=transparent&show_icons=true)
-
-

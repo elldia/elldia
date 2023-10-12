@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=100&color=auto&type=slice&text=Hello&fontColor=1&fontSize=25&fongAlign=center&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?height=100&color=auto&type=slice&text=Hello&fontColor=_f00&fontSize=25&fongAlign=center&animation=scaleIn)
 
 
 <h3 align="center">👋지각 결석 조퇴없이 열심히 듣자!</h3>

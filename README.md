@@ -1,3 +1,5 @@
+안녕하세요 웹 공부하는 OOO 입니다! 🎨
+
 ![header](https://capsule-render.vercel.app/api?text=웹웹WEBWEB&animation=fadeIn&fontColor=ff0000&type=waving)
 
 <h1 align="center">Hi 👋, I'm 유나</h1>
